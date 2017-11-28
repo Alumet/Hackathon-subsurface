@@ -17,3 +17,6 @@ The OBSNoise project investigated the application of machine learning to coheren
   <p align="center">
     <img  align="center" src="https://static1.squarespace.com/static/549dcda5e4b0a47d0ae1db1e/t/59554018ccf2101e40a098b0/1498759217159/?format=750w">
   </p>
+  
+  https://agilescientific.com/blog/2017/6/29/subsurface-hackathon-project-round-up-1
+  https://agilescientific.com/blog/2017/6/29/subsurface-hackathon-project-round-up-2
